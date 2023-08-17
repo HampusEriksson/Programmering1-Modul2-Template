@@ -1,4 +1,4 @@
-# Modul 3 - Kontrollstruktur - if-satser och diagramteknik
+# Modul 2 - Kontrollstruktur - if-satser och diagramteknik
 
 ## Repobeskrivning
 
